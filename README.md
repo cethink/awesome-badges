@@ -1249,15 +1249,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 ---
 
-## Star History Chart
+## Star History
 
-<a href="https://star-history.com/#immich-app/immich&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=immich-app/immich&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=immich-app/immich&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=immich-app/immich&type=Date" width="100%" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=immich-app/immich&type=Date)](https://www.star-history.com/#immich-app/immich&Date)
 
 ---
 
