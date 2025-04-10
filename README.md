@@ -1237,7 +1237,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/github/issues-closed/Envoy-VC/Envoy-VC.svg"/>                            | `https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg`                          |
 | <img src="https://img.shields.io/github/issues-pr/Envoy-VC/Envoy-VC.svg"/>                                | `https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg`                              |
 | <img src="https://img.shields.io/github/issues-pr-closed/Envoy-VC/Envoy-VC.svg"/>                         | `https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg`                       |
-| <img src="https://badge-size.herokuapp.com/Envoy-VC/Envoy-VC/main/README.md"/>                            | `https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}`                          |
 | <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/>                | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`                 |
 | <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/>                | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`                 |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/>     | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green`      |
@@ -1247,6 +1246,18 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <br>
 
 [🔝 Back to Top](#contents)
+
+---
+
+## Star History Chart
+
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://www.star-history.com/#star-history/star-history&Date)
+
+---
+
+## Repository activity
+
+![Activities](https://repobeats.axiom.co/api/embed/9e86d9dc3ddd137161f2f6d2e758d7863b1789cb.svg "Repobeats analytics image")
 
 ---
 
